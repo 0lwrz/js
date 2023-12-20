@@ -1,0 +1,10 @@
+.demo{
+    background-color: #fff;
+    border: 2px solid #eee;
+    height: 100px;
+}
+.vip{
+    background-color: teal;
+    border: 1px solid;
+    height: 100px;
+}
